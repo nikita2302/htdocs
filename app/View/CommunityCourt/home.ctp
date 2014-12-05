@@ -1,4 +1,7 @@
 <div id="main-body">
+	<div id="signin">
+		<a href="mainmenu"><input type="button" value="Enter System " name="login"></a>
+	</div>
   <div id="note"> 
     <h2> Welcome to the Home Page </h2>  
   </div>
@@ -14,4 +17,3 @@
  Restorative Justice promotes the idea that the criminal justice system can better serve the community by using alternative sentencing options, such as community service, to allow individuals charged with low-level offenses “to give something back” to their community. 
 </p>
 </div>
-<a id="button" href="mainmenu"><strong>Enter System</strong></a>

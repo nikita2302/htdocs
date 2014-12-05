@@ -1,4 +1,7 @@
 <div id="main-body">
+    <div id="signin">
+            <a href="mainmenu"><input type="button" value="   Main Menu   " name="login"></a>
+    </div>
 	<div id="note"> <h2> Welcome to your Account </h2> </div>
     <div id="searchpage">
     <form name="user-admin" enctype="text/plain">

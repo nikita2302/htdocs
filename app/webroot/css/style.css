@@ -77,15 +77,15 @@ fieldset
 	font-size:18px;
 }
 
-#button {
-	position:relative;
+#signin {
+	position:fixed;
 	float:left;
-	margin-top:-60px;
-	margin-left:1200px;
+	margin-top:65px;
+	margin-left:920px;
 	padding:1px;
 	background:#C29C03;
 	border-style: solid;
-	border-width: 1px;
+	border: 1px solid #C29C03;
 }
 
 .createselected {

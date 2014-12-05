@@ -1,13 +1,15 @@
 <div id="main-body">
+    <div id="signin">
+            <a href="home"><input type="button" value="   Exit System   " name="login"></a>
+    </div>
 	<div id="note"> 
         <h2> Welcome to the Data Entry System </h2> 
     </div> 
     <div id="permissions">
-        <a id="button" href="home"><strong>Exit System </strong></a>
     <form name="user-admin" enctype="text/plain">            
         <fieldset style="padding:5px; border-style: solid; border-width: 1px; border-color: #666">
         <legend style="padding:5px; border-style: solid; border-width: 1px; border-color: #666"> Options Available </legend>
-        	<a href = "programinfo">
+        	<a id="createactive" href = "programinfo">
                 <?php echo $this->Html->image('createactive.png', array('width' => '120', 'height' => '50'));?>
 
                <!--  <img src="img/createactive.png" height="50" width="120" onMouseOver="this.src='img/createselected.png'" onMouseOut="this.src='img/createactive.png'"> -->
@@ -24,3 +26,9 @@
     </form>  
     </div>               
 </div>
+
+<!-- /*<script>
+    $("#createactive").mouseover( function () {       
+        
+    });
+</script>*/ -->
