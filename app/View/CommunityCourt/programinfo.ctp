@@ -9,7 +9,6 @@
     </div>
     <div id = "form1">
      <form name = "personalInfo" enctype="text/plain" id="form1" method="post">
-        <a id="button" href="mainmenu"><strong>Main Menu</strong></a>
      <fieldset>
      <legend>Personal Details </legend>
      

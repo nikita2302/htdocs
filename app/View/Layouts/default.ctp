@@ -23,7 +23,6 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 	<?php echo $this->Html->charset(); ?>
 	<?php
 		echo $this->Html->meta('icon');
-		//echo $scripts_for_layout;
 		echo $this->Html->css('style');
 		echo $this->Html->css('normalize');
 		echo $this->Html->css('datepicker');
@@ -31,7 +30,6 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 		echo $this->Html->script('jquery-ui-1.8.18.custom.min');
 		echo $this->Html->script('datepick');
 		echo $this->Html->script('state');
-		//echo $this->Html->script('submit');
 	?>
 </head>
 <body>

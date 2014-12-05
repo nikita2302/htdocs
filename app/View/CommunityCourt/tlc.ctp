@@ -11,7 +11,6 @@
      </div>
      <div id = "form2">
       <form name = "caseInfo" enctype="text/plain">
-         <a id="button" href="mainmenu"><strong>Main Menu</strong></a>
       <fieldset>
       <legend>Case Details </legend>
       <h2 style="text-decoration:underline; color:#000; margin-left:20px; font-weight:500; margin-bottom:-2px"> TLC </h2>

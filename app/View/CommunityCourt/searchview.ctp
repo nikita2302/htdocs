@@ -5,7 +5,6 @@
 	<div id="note"> <h2> Welcome to your Account </h2> </div>
     <div id="searchpage">
     <form name="user-admin" enctype="text/plain">
-        <a id="button" href="mainmenu"><strong>Main Menu</strong></a>
     <fieldset style="padding:5px; border-style: solid; border-width: 1px; border-color: #666">
     <legend> Record Search </legend>
     	<br><br>
